@@ -1,20 +1,8 @@
-![](https://i.imgur.com/xG74tOh.png)
 
-# Back-end | Rotas, Intermediarios e Controladores
+# 1. Calculadora Online
+° Neste exercício criei um servidor com 4 rotas _GET_ para executar as 4 operações básicas da matemática (somar, subtrair, multiplicar, dividir)
 
-## Exercícios
-
-1. Calculadora Online
-2. RoundControllerEvolution.com
+# 2. RoundControllerEvolution.com
+° Para este exercício criei um servidor com nodejs para controlar rodadas de um jogo. Dado um array de nomes de jogadores que estará no script do servidor, deveremos a cada requisição ao servidor, responder com uma mensagem dizendo de quem é a vez de jogar.
 
 
----
-
-Preencha a checklist para fazer os exercícios:
-
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
-
-###### tags: `módulo 2` `exercícios` `lógica` `nodeJS`
